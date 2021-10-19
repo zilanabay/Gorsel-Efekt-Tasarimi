@@ -1,0 +1,37 @@
+Report created: 
+	19.10.2021	11:54:09
+
+Project name: Proje.aep
+
+Source files collected to: 
+	C:\Users\B109-01\Desktop\Proje folder
+
+Source files collected: All
+
+Collected comps:  
+	df5f91fe9428aa675832c7a33b1ac84e
+	
+Number of collected files:  4
+
+Size of collected files:  254 KB
+
+Collected source files: 
+	C:\Users\B109-01\Desktop\0cdb451a4a9faa8a76c8f5ea44b801ad.jpg
+	C:\Users\B109-01\Desktop\3.Hafta folder\(Footage)\251003460017202.webp
+	C:\Users\B109-01\Desktop\3.Hafta folder\(Footage)\df5f91fe9428aa675832c7a33b1ac84e.jpg
+	C:\Users\B109-01\Desktop\3.Hafta folder\(Footage)\maxresdefault.jpg
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  2
+
+Effect:  Fast Box Blur
+	
+Effect:  Paint
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Times New Roman”, Font style: “Regular”
+
