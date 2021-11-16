@@ -1,0 +1,20 @@
+Report created: 
+	16.11.2021	11:24:39
+
+Project name: Untitled Project.aep
+
+Source files collected to: 
+	C:\Users\B109-01\Desktop\Untitled Project folder
+
+Source files collected: None
+
+Collected comps:  
+	Comp 1
+	
+Number of collected files:  0
+
+Size of collected files:  0 KB
+
+Rendering plug-ins:
+	Classic 3D
+	
