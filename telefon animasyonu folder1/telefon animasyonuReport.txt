@@ -1,0 +1,23 @@
+Report created: 
+	20.11.2021	00:59:04
+
+Project name: telefon animasyonu.aep
+
+Source files collected to: 
+	C:\Users\zilan\Desktop\telefon animasyonu folder1
+
+Source files collected: All
+
+Collected comps:  
+	Comp 1
+	
+Number of collected files:  1
+
+Size of collected files:  50 KB
+
+Collected source files: 
+	C:\Users\zilan\Desktop\Gorsel-Efekt-Tasarimi-main\113156_large.jpg
+	
+Rendering plug-ins:
+	Classic 3D
+	
