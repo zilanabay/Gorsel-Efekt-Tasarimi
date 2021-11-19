@@ -1,0 +1,25 @@
+Report created: 
+	16.11.2021	22:57:30
+
+Project name: 7. haftatopanimasyonu.aep
+
+Source files collected to: 
+	C:\Users\zilan\Desktop\7. hafta
+
+Source files collected: All
+
+Collected comps:  
+	Comp 1
+	
+Number of collected files:  1
+
+Size of collected files:  43 KB
+
+Collected source files: 
+	C:\Users\zilan\Desktop\7. haftatopanimasyonu folder\(Footage)\75a25801e8aa6f9ac843b9da7b7537f0.jpg
+	
+Number of missing items:  1
+
+Rendering plug-ins:
+	Classic 3D
+	
